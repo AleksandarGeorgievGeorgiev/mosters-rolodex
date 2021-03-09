@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mosters-rolodex/static/css/main.5ba18adc.chunk.css",
+    "main.js": "/mosters-rolodex/static/js/main.7fbcc208.chunk.js",
+    "main.js.map": "/mosters-rolodex/static/js/main.7fbcc208.chunk.js.map",
+    "runtime-main.js": "/mosters-rolodex/static/js/runtime-main.7472ebed.js",
+    "runtime-main.js.map": "/mosters-rolodex/static/js/runtime-main.7472ebed.js.map",
+    "static/js/2.702928a0.chunk.js": "/mosters-rolodex/static/js/2.702928a0.chunk.js",
+    "static/js/2.702928a0.chunk.js.map": "/mosters-rolodex/static/js/2.702928a0.chunk.js.map",
+    "static/js/3.94d70ae0.chunk.js": "/mosters-rolodex/static/js/3.94d70ae0.chunk.js",
+    "static/js/3.94d70ae0.chunk.js.map": "/mosters-rolodex/static/js/3.94d70ae0.chunk.js.map",
+    "index.html": "/mosters-rolodex/index.html",
+    "static/css/main.5ba18adc.chunk.css.map": "/mosters-rolodex/static/css/main.5ba18adc.chunk.css.map",
+    "static/js/2.702928a0.chunk.js.LICENSE.txt": "/mosters-rolodex/static/js/2.702928a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7472ebed.js",
+    "static/js/2.702928a0.chunk.js",
+    "static/css/main.5ba18adc.chunk.css",
+    "static/js/main.7fbcc208.chunk.js"
+  ]
+}
